@@ -41,3 +41,7 @@ ul,
 ol {
   padding-left: 1rem;
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
